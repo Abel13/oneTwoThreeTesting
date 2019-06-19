@@ -1,0 +1,30 @@
+{
+  "name": "onetwothreetesting",
+  "version": "1.0.0",
+  "description": "Trabalho de Testes",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" &amp;amp;amp;&amp;amp;amp; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{ \"type\": \"git\", \"url\": \"git+https://github.com/Abel13/oneTwoThreeTesting.git\" }"
+  },
+  "keywords": [
+    "\"js\"",
+    "\"node\"",
+    "\"tdd\"",
+    "\"mocha\"",
+    "\"chai\"",
+    "\"npm\""
+  ],
+  "author": "Abel13",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
